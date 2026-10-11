@@ -47,7 +47,7 @@ const quizQuestions = [
 
 // Paste your deployed Google Apps Script Web App URL (the one ending in /exec) here.
 // Keep the URL private for your project and do not collect Aadhaar/PAN numbers or OTPs.
-const SHEETS_WEB_APP_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const SHEETS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwjik8T-6gbVG0_OC1dWP6j6pAMFo9MEKbPSsuSacKo0QTuJy4dUYFi-rGQcNCn5NtRFA/exec";
 let registeredStudent = null;
 
 function submitRecord(record) {
